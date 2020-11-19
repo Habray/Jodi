@@ -1,0 +1,128 @@
+.logo{
+	height: 50px;
+	width: 50px;
+	padding: 5px 10px;
+}
+.logo-holder{
+	border-bottom: 2px solid #2b8edf;
+}
+.skip{
+	padding-top: 30px;
+}
+.button{
+	font-family: Comic Sans MS;
+	border: none;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #ff66cc;
+    position: absolute;
+    right: 10px;
+    width: 100px;
+    height: 40px;
+    border-radius: 50px;
+}
+.button:hover{
+	background-color: #99FF66;
+}
+.box{
+	width: 800px;
+	height: 250px;
+	background: #fff;
+	color: #fff;
+	top: 150px;
+	left: 250px;
+	position: absolute;
+	box-sizing: border-box;
+	padding: 20px 30px;
+	border-radius: 20px;
+}
+.box-1{
+	width: 50%;
+	height: 181px;
+	float: left;
+}
+.box-1-title{
+	text-align: center;
+	font-family: Comic Sans MS;
+	color: #585858;
+	font-size: 20px;
+	font-weight: bold;
+}
+.box-1-1{
+	width: 60%;
+	height: 100%;
+	float: left;
+}
+.profile-pic{
+	height: 150px;
+	width: 150px;
+	position: absolute;
+	padding: 3% 3%;
+}
+.box-1-2{
+	width: 40%;
+	height: 131px;
+	float: left;
+    padding-top: 40px;
+}
+.upload-button-1{
+	font-family: Comic Sans MS;
+	border: none;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+    background-color: #ff66cc;
+    position: absolute;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+}
+.upload-button-1:hover{
+	background-color: #99FF66;
+}
+.upload-button-2{
+	font-family: Comic Sans MS;
+	border: none;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+    background-color: #ff66cc;
+    position: absolute;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+}
+.upload-button-2:hover{
+	background-color: #99FF66;
+}
+.box-2{
+	width: 50%;
+	height: 181px;
+	float: left;
+}
+.box-2-title{
+	text-align: center;
+	font-family: Comic Sans MS;
+	color: #585858;
+	font-size: 20px;
+	font-weight: bold;
+}
+.box-2-1{
+	width: 60%;
+	height: 100%;
+	float: left;
+}
+.cover{
+	height: 100px;
+	width: 170px;
+	position: absolute;
+	padding: 3% 3%;
+	margin-top: 3%;
+}
+.box-2-2{
+	width: 40%;
+	height: 131px;
+	float: left;
+    padding-top: 40px;
+}
